@@ -1,0 +1,15 @@
+html { 
+    background: url(/src/to\ do\ list.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+  h1 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 80px;
+    margin-bottom: 30px;
+    padding-left: 400px;
+    
+  }
